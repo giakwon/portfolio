@@ -21,14 +21,13 @@ I hope you enjoy :)
 ### NudgeBudge | Wellness App (Design Only)
 - Co-designed peer motivation & habit tracking features
 - Won 1st Place + Audience Choice in SwatTank pitch competition
-[Images / Pitch Deck PDF](https://docs.google.com/presentation/d/1b8rBUyHzQl7wsPt3tSJAXkgwxTpoq9eKzXGzuEqrfrA/edit?usp=sharing)
+[Pitch Deck Link](https://docs.google.com/presentation/d/1b8rBUyHzQl7wsPt3tSJAXkgwxTpoq9eKzXGzuEqrfrA/edit?usp=sharing)
 
 
 ### Airpool | Carpool App (Design Only)
 - Frontend designed with TypeScript & Figma
 - Interface accessibility improvements
-[Images / Design Files](<img width="636" height="1120" alt="image" src="https://github.com/user-attachments/assets/fa777fc4-3166-4801-9ac2-68f5fcdd0fe3" />)
-
+[Design Images](<img width="636" height="1120" alt="image" src="https://github.com/user-attachments/assets/fa777fc4-3166-4801-9ac2-68f5fcdd0fe3" />)
 
 
 ## Skills
