@@ -27,7 +27,7 @@ I hope you enjoy :)
 ### Airpool | Carpool App (Design Only)
 - Frontend designed with TypeScript & Figma
 - Interface accessibility improvements
-![Design Images](https://github.com/user-attachments/assets/fa777fc4-3166-4801-9ac2-68f5fcdd0fe3)
+[Design Images](https://github.com/user-attachments/assets/fa777fc4-3166-4801-9ac2-68f5fcdd0fe3)
 
 ## Skills
 Python, C/C++, JavaScript/TypeScript, Bash, Linux/UNIX, SQL, Pandas, NumPy, Regex, Git, Figma
